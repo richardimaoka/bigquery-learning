@@ -2,5 +2,7 @@
 
 https://github.com/GoogleCloudPlatform/bigquery-oreilly-book
 
-- 1. intro
-- 2. query essentials
+1. intro
+2. query essentials
+3. 
+4. load - bigtable
