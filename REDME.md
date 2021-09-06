@@ -6,3 +6,4 @@ https://github.com/GoogleCloudPlatform/bigquery-oreilly-book
 2. query essentials
 3. 
 4. load - bigtable
+5. developing
